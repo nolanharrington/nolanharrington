@@ -1,7 +1,7 @@
 ## Howdy! 🤠
 
-🪚I'm currently working as a product designer with GSA's Technology Transformation Service.
-📻I'm currently learning about sound design in user experience.
+- 🪚I'm currently working as a product designer with GSA's Technology Transformation Service.
+- 📻I'm currently learning about sound design in user experience.
 
 <!--
 **nolanharrington/nolanharrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
